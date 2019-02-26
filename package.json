@@ -50,7 +50,7 @@
     "lodash.escaperegexp": "^4.1.2"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.2",
+    "@types/jest": "^24.0.7",
     "@types/lodash.deburr": "^4.1.4",
     "@types/lodash.escaperegexp": "^4.1.4",
     "husky": "^1.1.0",
